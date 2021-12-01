@@ -1,5 +1,3 @@
----
-
 :IQ: \*\*\_\_Inquisitor Tryout\_\_\*\* :IQ: <br>
 ||<| @everyone |>||
 
